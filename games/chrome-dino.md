@@ -5,7 +5,7 @@ The Google Chrome T-Rex game, affectionately known as the "Chrome Dino," is a si
 
 Created by Google developers in 2014, this game has become a surprising fan favorite, offering endless hours of entertainment during connectivity downtimes.
 
-![T-Rex Game Screenshot](img/dino-screenshot.png)
+![T-Rex Game Screenshot](../img/dino-screenshot.png)
 
 ---
 
@@ -22,7 +22,7 @@ The Chrome Dino game was designed to commemorate the prehistoric era when there 
 ## Popularity and Hidden Features
 While initially designed as a quick offline pastime, the T-Rex game has grown into an internet sensation. Players can access the game even with an active connection by typing `chrome://dino` into the browser's address bar. Additionally, the game features fun Easter eggs, such as a night mode after 700 points.
 
-![Chrome Dino Pixel Art](img/dino-pixelart.png)
+![Chrome Dino Pixel Art](../img/dino-pixelart.png)
 
 ---
 
