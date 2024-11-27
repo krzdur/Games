@@ -22,7 +22,7 @@ Players create and manage their own village, form alliances, and wage wars with 
 - **Dynamic community**: Engage in events and interact with players around the world.
 
 ## Game Images  
-![Plemiona Village](img/plemiona.png)  
+![Plemiona Village](../img/plemiona.png)  
 *A well-developed village in Plemiona.*
 
 
