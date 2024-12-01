@@ -4,7 +4,7 @@
 ## **Introduction to Path of Exile**
 Path of Exile (PoE) is an action role-playing game (ARPG) developed and published by Grinding Gear Games. Set in the dark fantasy world of Wraeclast, players embark on epic journeys, facing countless enemies, mastering skills, and uncovering lore-rich stories. Renowned for its complex gameplay systems and expansive content, PoE has become a hallmark of modern ARPGs.
 
-![Path of Exile Gameplay](img/poe1.jpg)
+![Path of Exile Gameplay](../img/poe1.jpg)
 
 ## **Gameplay Mechanics**
 The game offers a deep and intricate gameplay system centered around character builds, skill customizations, and challenging combat. Path of Exile stands out for its **Passive Skill Tree**, an enormous web of interconnected nodes that allow players to develop highly specialized characters. Additionally, the use of skill gems provides unique abilities, making every build feel personal and distinct.
